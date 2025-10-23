@@ -4,7 +4,7 @@
 
 ---
 
-###  [LR1 — Apache Kafka Performance](../tree/lab1)
+###  [LR1 — Apache Kafka Performance](../../tree/lab1)
 
 Тема:  
 > Дослідження та оптимізація продуктивності Apache Kafka для IoT-телеметрії  
