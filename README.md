@@ -32,7 +32,19 @@
 
 ---
 
-###  **ЛР3 — ...**
+###  [LR3 — Apache Cassandra Time-Series Optimization](../../tree/lab3)
+
+Тема:
+> Оптимізація схем даних в Apache Cassandra для енергетичних часових рядів  
+> *(Bucketing, Wide Rows, Materialized Views, Pre-aggregation)*
+
+Варіант:
+> 1 — Сонячні електростанції
+
+Ключовий висновок:
+> Використання **Hourly Bucketing** зменшило розмір партиції у ~330 разів порівняно з Simple Wide Row та забезпечило стабільну read latency (~15.48 ms).  
+> Materialized Views прискорили фільтровані запити у 10–15 разів, але збільшили write-навантаження та використання диску на ~10–15%.
+
 
 
 
